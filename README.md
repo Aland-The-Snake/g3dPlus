@@ -1,5 +1,11 @@
 # g3dPlus 
 
-This is a fork of g3d ( groverburger's 3D engine ) with more features and i will keep updateing for now this is what i have added
+This is a fork of g3d ([g3d](https://github.com/groverburger/g3d)) with more features 
 
-- Minecraft java Block ( json file ) loader with uv mapping 
+engine features:
+
+- 3D Model rendering
+- obj loader
+- Basic collision functions
+- Minecraft java Block ( json file ) loader with uv mapping
+
