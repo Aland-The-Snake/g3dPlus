@@ -1,6 +1,6 @@
 # g3dPlus 
 
-This is a fork of g3d ([g3d](https://github.com/groverburger/g3d)) with more features 
+This is a fork of [g3d](https://github.com/groverburger/g3d) with more features 
 
 engine features:
 
