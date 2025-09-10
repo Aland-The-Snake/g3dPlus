@@ -7,7 +7,6 @@ engine features:
 - 3D Model rendering
 - .obj loader
 - Basic first person movement and camera controls
-- Basic collision functions
+- New collision system
 - custom vertex and fragment shaders
-- json model ( minecraft block ) loader with uv mapping
 
