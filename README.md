@@ -8,5 +8,6 @@ engine features:
 - .obj loader
 - Basic first person movement and camera controls
 - New collision system
+- New camera functions
 - custom vertex and fragment shaders
 
